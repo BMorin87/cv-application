@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/CV.css';
 
 const CV = ({ generalInfo, education, practical }) => {
   return (

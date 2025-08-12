@@ -1,0 +1,28 @@
+/* styles for the CV.jsx component */
+.cv-output {
+  padding: 20px;
+}
+
+.cv-output section {
+  margin-bottom: 30px;
+}
+
+.cv-output h3 {
+  font-size: 2rem;
+  color: #1a2a43;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #e0e6ed;
+  padding-bottom: 5px;
+}
+
+.cv-output h4 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.cv-output p {
+  margin: 0;
+  line-height: 1.6;
+}
